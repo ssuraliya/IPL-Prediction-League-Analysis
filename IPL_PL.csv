@@ -1,0 +1,85 @@
+Number,Match Between,Dhruv,,Aniket,,Meghashyam,,Jil,,Keval,,Shreyans,,Mustafa,
+,,Prediction,Points,Prediction,Points,Prediction,Points,Prediction,Points,Prediction,Points,Prediction,Points,Prediction,Points
+Match 1,MI VS CSK,MI,0,MI,0,MI,0,MI,0,MI,0,CSK,3,MI,0
+Match 2,DC VS KXIP,KXIP,0,DC,3,DC,3,KXIP,0,DC,3,DC,3,DC,3
+Match 3,SRH VS RCB,RCB,3,RCB,3,SRH,0,RCB,3,RCB,3,RCB,3,RCB,3
+Match 4,RR VS CSK,RR,3,CSK,0,CSK,0,RR,3,CSK-RR,1,CSK,0,RR,3
+Match 5,KKR VS MI,KKR,0,KKR,0,MI,3,MI,3,KKR,0,KKR,0,KKR,0
+Match 6,KXIP VS RCB,RCB,0,RCB,0,KXIP,3,KXIP,3,RCB,0,RCB,0,RCB,0
+Match 7,CSK VS DC,DC,3,DC,3,CSK,0,DC,3,DC,3,CSK,0,DC,3
+Match 8,KKR VS SRH,SRH,0,SRH-KKR,1,KKR,3,KKR,3,KKR,3,KKR,3,SRH,0
+Match 9,KXIP VS RR,KXIP,0,RR-KXIP,-1,RR-KXIP,-1,KXIP,0,KXIP,0,KXIP,0,0-KXIP,-1
+Match 10,MI VS RCB,RCB,3,MI,0,MI,0,RCB,3,MI,0,MI-RCB,1,MI,0
+Match 11,DC VS SRH,DC,0,DC,0,SRH,3,SRH,3,SRH,3,DC,0,DC,0
+Match 12,KKR VS RR,RR,0,KKR,3,KKR,3,RR,0,KKR,3,KKR,3,RR,0
+Match 13,KXIP VS MI,KXIP-MI,1,MI,3,MI,3,KXIP,0,MI,3,MI,3,MI,3
+Match 14,CSK VS SRH,SRH,3,CSK,0,CSK,0,SRH,3,SRH,3,CSK,0,CSK,0
+Match 15,RR VS RCB,RCB,3,RCB,3,RR,0,RCB,3,RR,0,RR,0,RR,0
+Match 16,KKR VS DC,DC,3,DC,3,DC,3,DC,3,KKR,0,KKR-DC,1,KKR-DC,1
+Match 17,MI VS SRH,MI,3,MI,3,MI,3,SRH,0,MI,3,MI,3,MI,3
+Match 18,CSK VS KXIP,-,0,KXIP,0,CSK,3,KXIP,0,KXIP,0,CSK,3,KXIP,0
+Match 19,DC VS RCB,RCB,0,DC,3,DC,3,RCB,0,RCB,0,DC,3,RCB,0
+Match 20,MI VS RR,RR,0,RR,0,MI,3,0-MI,1,MI,3,MI,3,MI,3
+Match 21,CSK VS KKR,CSK,0,KKR,3,CSK,0,KKR,3,KKR,3,CSK,0,KKR,3
+Match 22,SRH VS KXIP,KXIP,0,SRH,3,KXIP,0,KXIP,0,KXIP,0,SRH,3,SRH,3
+Match 23,DC VS RR,DC,3,DC,3,RR,0,DC,3,DC-RR,-1,-,0,RR,0
+Match 24,KKR VS KXIP,KXIP,0,KKR,3,KXIP,0,KXIP,0,KXIP,0,KXIP,0,KKR,3
+Match 25,CSK VS RCB,CSK,0,RCB,3,0-CSK,-1,RCB,3,CSK,0,CSK,0,RCB,3
+Match 26,RR VS SRH,SRH,0,SRH,0,RR,3,RR,3,SRH,0,SRH,0,SRH,0
+Match 27,MI VS DC,MI,3,DC,0,MI,3,MI,3,DC,0,DC,0,DC,0
+Match 28,RCB VS KKR,RCB,3,KKR,0,KKR,0,RCB,3,KKR,0,RCB,3,-,0
+Match 29,CSK VS SRH,CSK,3,CSK,3,CSK,3,CSK,3,CSK,3,CSK,3,CSK,3
+Match 30,RR VS DC,RR,0,DC,3,DC,3,RR,0,DC,3,DC,3,DC,3
+Match 31,RCB VS KXIP,RCB,0,RCB,0,KXIP,3,KXIP,3,KXIP,3,RCB,0,RCB,0
+Match 32,MI VS KKR,MI,3,MI,3,MI,3,KKR,0,KKR,0,KKR,0,MI,3
+Match 33,RCB VS RR,RR,0,RR,0,RCB,3,-,0,RR,0,-,0,RCB,3
+Match 34,DC VS CSK,CSK,0,DC,3,CSK,0,CSK,0,CSK,0,CSK,0,DC,3
+Match 35,KKR VS SRH,KKR,3,KKR,3,KKR,3,KKR,3,KKR,3,SRH,0,SRH,0
+Match 36,MI VS KXIP,MI,0,KXIP,3,MI,0,-,0,MI,0,KXIP,3,MI,0
+Match 37,CSK VS RR,CSK-RR,1,RR,3,0-RR,1,RR,3,CSK-RR,1,CSK-RR,1,CSK-RR,1
+Match 38,DC VS KXIP,DC,0,DC,0,DC,0,KXIP,3,DC,0,KXIP,3,DC,0
+Match 39,RCB VS KKR,KKR-RCB,1,RCB,3,RCB,3,RCB,3,KKR-RCB,1,RCB,3,0-RCB,1
+Match 40,RR VS SRH,RR,0,SRH,3,SRH,3,RR,0,SRH,3,RR,0,SRH,3
+Match 41,CSK VS MI,MI,3,CSK-MI,1,MI,3,CSK,0,CSK-MI,1,CSK-MI,1,CSK,0
+Match 42,DC VS KKR,DC,0,DC,0,KKR,3,DC,0,DC,0,KKR,3,DC,0
+Match 43,SRH VS KXIP,SRH,0,SRH,0,SRH,0,KXIP,3,SRH,0,KXIP-SRH,-1,SRH,0
+Match 44,CSK VS RCB,RCB,0,RCB,0,CSK,3,RCB,0,RCB,0,CSK,3,RCB,0
+Match 45,RR VS MI,MI,0,RR-MI,-1,MI,0,RR,3,MI,0,MI,0,MI,0
+Match 46,KXIP VS KKR,KXIP,3,KKR,0,KKR,0,KXIP,3,KKR,0,KKR,0,KKR,0
+Match 47,DC VS SRH,SRH,3,DC,0,DC,0,DC,0,DC-SRH,1,DC,0,SRH,3
+Match 48,RCB VS MI,MI,3,RCB,0,MI,3,RCB,0,RCB,0,MI,3,MI,3
+Match 49,KKR VS CSK,CSK,3,KKR,0,CSK,3,KKR,0,KKR,0,KKR,0,KKR,0
+Match 50,KXIP VS RR,RR,3,RR,3,RR,3,KXIP,0,RR,3,KXIP,0,RR,3
+Match 51,DC VS MI,DC-MI,1,DC-MI,1,MI,3,DC-MI,1,DC-MI,1,DC-MI,1,MI,3
+Match 52,RCB VS SRH,SRH,3,SRH,3,RCB-SRH,1,RCB,0,SRH,3,RCB-SRH,1,RCB-SRH,1
+Match 53,CSK VS KXIP,KXIP,0,KXIP,0,CSK,3,KXIP,0,CSK,3,CSK,3,CSK,3
+Match 54,KKR VS RR,RR,0,KKR,3,KKR,3,RR,0,RR,0,RR,0,RR,0
+Match 55,DC VS RCB,DC,3,DC,3,DC,3,RCB,0,DC,3,RCB-DC,1,RCB,0
+Match 56,SRH VS MI,-,0,SRH,3,MI,0,MI,0,SRH,3,SRH,3,0-SRH,1
+BONUS 1,TOP 4,"MI,DC,RCB",15,"MI,DC,SRH",15,"MI,DC",10,"DC,RCB",10,"MI,DC",10,"MI,DC,RCB",15,"MI,DC,RCB",15
+Qualifier 1,MI VS DC,,,,,,,,,,,,,,
+Eliminator,SRH VS RCB,,,,,,,,,,,,,,
+Qualifier 2,,,,,,,,,,,,,,,
+FINAL,,,,,,,,,,,,,,,
+BONUS 2,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Total,,,85,,100,,106,,90,,78,,87,,85
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,Rules-,,,,,,,,,,,,,
+,,1)Predict the winner of the match after the toss,,,,,,,,,,,,,
+,,2)If you don't predict before the 1st ball is bowled you get 0 points for that match,,,,,,,,,,,,,
+,,3)Right prediction = 3 points,,,,,,,,,,,,,
+,,Washout = 1 point,,,,,,,,,,,,,
+,,Wrong prediction = 0,,,,,,,,,,,,,
+,,4)If you want you can change the prediction after 1st innings. Then -,,,,,,,,,,,,,
+,,Right prediction = 1 point,,,,,,,,,,,,,
+,,Wrong prediction = -1 point,,,,,,,,,,,,,
+,,5)Predict top 4 teams before the tournament-,,,,,,,,,,,,,
+,,For every team you predict which gets in the top 4 you get 5 points,,,,,,,,,,,,,
+,,If all 4 of your teams get qualified you get 10 extra points,,,,,,,,,,,,,
